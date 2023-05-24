@@ -9,8 +9,10 @@ Pet project
 
 ### Screenshots
 <p float="left">
-  <img src="assets/images/screenshot-home-page.png" width="200" />
-  <img src="assets/images/screenshot-detail-page.png" width="200" /> 
+    <kbd>
+        <img src="assets/images/screenshot-home-page-no-frame.png" width="200" />
+    </kbd>
+    <kbd>
+        <img src="assets/images/screenshot-detail-page-no-frame.png" width="200" />
+    </kbd>
 </p>
-
-
