@@ -16,7 +16,3 @@ Pet project
         <img src="assets/images/screenshot-detail-page-no-frame.png" width="200" />
     </kbd>
 </p>
-
-
-    git config --global user.name "konin.sergei"
-    git config --global user.email konin.sergei@gmail.com
