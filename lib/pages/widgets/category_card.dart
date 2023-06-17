@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
+import 'package:food_app/theme/theme.dart';
 
-import '../../theme/theme.dart';
+
 
 class CategoryCard extends StatelessWidget {
   final String imagePath;
@@ -48,7 +49,6 @@ class CategoryCard extends StatelessWidget {
             ElevatedButton(
               onPressed: () {},
               style: ElevatedButton.styleFrom(
-                //backgroundColor: Colors.white,
                 backgroundColor: selectedCategory == index
                     ? appColorWhite
                     : appColorRed,

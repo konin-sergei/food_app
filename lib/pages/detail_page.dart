@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../data/ingredients.dart';
-import '../theme/theme.dart';
+import 'package:food_app/data/ingredients.dart';
+import 'package:food_app/theme/theme.dart';
 
 class DetailPage extends StatelessWidget {
   final String imagePath;

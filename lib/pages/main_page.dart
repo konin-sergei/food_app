@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import '../data/category.dart';
-import '../data/popular.dart';
-import '../theme/theme.dart';
+import 'package:food_app/data/category.dart';
+import 'package:food_app/data/popular.dart';
+import 'package:food_app/theme/theme.dart';
 import 'widgets/category_card.dart';
 import 'widgets/popular_card.dart';
 

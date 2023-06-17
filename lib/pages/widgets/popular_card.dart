@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import '../../theme/theme.dart';
-import '../detail_page.dart';
+import 'package:food_app/pages/detail_page.dart';
+import 'package:food_app/theme/theme.dart';
+
 
 class PopularCard extends StatelessWidget {
   final String imagePath;
